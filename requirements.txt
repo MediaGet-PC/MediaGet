@@ -1,0 +1,11 @@
+-r pyipv8/requirements.txt
+
+aiohttp
+ipv8-rust-tunnels
+lz4
+pillow
+pony
+pystray
+pywin32;sys_platform=="win32"
+sentencepiece
+libtorrent==2.1.1
